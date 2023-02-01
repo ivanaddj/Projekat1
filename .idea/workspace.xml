@@ -4,32 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1521956-0ff5-4315-a1ae-0cf4653b4cdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/src/main/java/org/example/FileEditor.form" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/src/main/java/org/example/FileEditor.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/src/main/java/org/example/FileEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/src/main/java/org/example/FileEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/src/main/java/org/example/PredlogKorisnickogInterfejsa.form" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/src/main/java/org/example/PredlogKorisnickogInterfejsa.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/src/main/java/org/example/PredlogKorisnickogInterfejsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/src/main/java/org/example/PredlogKorisnickogInterfejsa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekat/target/classes/org/example/PredlogKorisnickogInterfejsa.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projekat/target/classes/org/example/PredlogKorisnickogInterfejsa.class" afterDir="false" />
-    </list>
+    <list default="true" id="c1521956-0ff5-4315-a1ae-0cf4653b4cdb" name="Changes" comment="Initial commit - Ivana Djuric" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="IvanaDjuric2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,6 +50,36 @@
       <option name="presentableId" value="Default" />
       <updated>1675287653706</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit - Ivana Djuric">
+      <created>1675291388643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675291388643</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit - Ivana Djuric">
+      <created>1675291659581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675291659581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit - Ivana Djuric" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - Ivana Djuric" />
   </component>
 </project>
